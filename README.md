@@ -1,1 +1,2 @@
 # B143_AI-Studio
+This report describes the process of implementing a binary classification task using the Tsetlin Machine (TM) algorithm. We will utilize the "Bank Marketing Dataset" from the UCI Machine Learning Repository for this purpose. This data in this dataset contains information related to direct marketing campaigns, with the aim of prediction of a term deposit whether a client will receive or not.
